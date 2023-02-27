@@ -1,0 +1,12 @@
+Exercice 1:
+1.vrai
+2.faux
+3.faux
+4.vrai
+5.faux
+6.faux
+
+Exercice 2:
+1.data class est une classe qui est conçue pour stocker des données et qui fournit automatiquement des méthodes utilitaires pour travailler avec ces données. Les data class sont souvent utilisées pour représenter des objets de données immuables dans une application.
+2.enum class est une classe spéciale qui représente un ensemble fini de constantes.
+3.Le mot clé "lateinit" permet de déclarer une variable qui sera initialisée ultérieurement, c'est-à-dire après la création de l'objet.
